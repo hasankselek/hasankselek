@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasankselek&label=Profile%20views&color=0e75b6&style=flat" alt="hasankselek" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasankselek" alt="hasankselek" /></a> </p>
-
 - 🔭 I’m currently working on [https://github.com/hasankselek/bdd-framework-with-full-stack-testing](https://github.com/hasankselek/bdd-framework-with-full-stack-testing)
 
 - 🌱 I’m currently learning **Playwright and JS**
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasankselek&show_icons=true&locale=en" alt="hasankselek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasankselek&" alt="hasankselek" /></p>
+
