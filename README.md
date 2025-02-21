@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [https://github.com/hasankselek/bdd-framework-with-full-stack-testing](https://github.com/hasankselek/bdd-framework-with-full-stack-testing)
 
-- 🌱 I’m currently learning **Playwright and JS**
+- 🌱 I’m currently learning **Playwright and Python**
 
 - 💬 Ask me about **Java,Selenium,Cucumber,TestNG,Appium**
 
